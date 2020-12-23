@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T11:32:02.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="58gFoafB9KNWdwBQJO0u" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T11:32:14.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="foz_AaRW8KTSZLMl0PbR" version="14.1.1" type="github">
   <diagram id="dzjsmuD-rFG6SCk-NLqr" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="325" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="70EhJgEo6nSa34UKSa1v-6" value="结束调度，输出甘特图等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="70EhJgEo6nSa34UKSa1v-7" value="是否有进程将要运行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="200" width="180" height="110" as="geometry" />
+          <mxGeometry x="80" y="200" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
