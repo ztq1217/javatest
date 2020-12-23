@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T11:27:31.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bMjnX6jwqx0AKWWM3cb6" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T11:29:28.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MrBinnfUnGxU1VTBTGpS" version="14.1.1" type="github">
   <diagram id="dzjsmuD-rFG6SCk-NLqr" name="Page-1">
     <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70EhJgEo6nSa34UKSa1v-1" value="刷新就绪队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="90" width="150" height="50" as="geometry" />
+        <mxCell id="70EhJgEo6nSa34UKSa1v-2" value="作业队列、三个就绪队列、运行队列均为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="70EhJgEo6nSa34UKSa1v-4" value="刷新就绪队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
